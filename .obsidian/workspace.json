@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "76733b28d14b8684",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6aa02731155f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0484d9fd87508df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-06-02-the-deadline-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-02-the-deadline-01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dae1e20598ff42d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "948c1983c7937198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2331c61418ef0d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f0346f1530b723bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "6efe1f853979b46b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a025a34e3bf3c8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee904eeed6519512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a8b1e87d90c5f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2026-08-12-welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "8a03e86e159a78bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2026-08-12-welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "28f0266e785c58ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "47b976b09f7eb32b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "1b144b4f00b181ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2026-08-12-welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "b0484d9fd87508df",
+  "lastOpenFiles": [
+    "_posts/2025-06-07-the-deadline-03.md",
+    "_posts/2025-07-09-the-deadline-04.md",
+    "_posts/2025-06-10-the-deadline-02.md",
+    "_posts/2025-07-05-the-deadline-ready-sync.md",
+    "_posts/2025-07-16-the-deadline-05.md",
+    "_posts/2025-07-22-the-deadline-widget-stack.md",
+    "_posts/2025-08-22-the-deadline-shipping-log.md",
+    "_posts/2025-08-29-the-deadline-movie-render-queue.md",
+    "_posts/2025-09-05-the-deadline-repair-sync.md",
+    "_posts/2025-09-18-the-deadline-beaverrocks.md",
+    "assets/img/the-deadline-preview-actor-wheel.png",
+    "assets/img/the-deadline-preview-mesh-setting.png",
+    "assets/img/beaverrocks-2025-schedule.png",
+    "assets/img/beaverrocks-2025-banner.png",
+    "assets/img/beaverrocks-2025-goal.png",
+    "assets/img/beaverrocks-2025-result.png",
+    "assets/img/the-deadline-mrq-rnd-5.png",
+    "assets/img/the-deadline-mrq-rnd-4.png",
+    "assets/img/the-deadline-mrq-rnd-3.png",
+    "assets/img/the-deadline-mrq-rnd-2.png",
+    "_posts/2025-06-02-the-deadline-01.md",
+    "_posts/2025-08-22-the-deadline-sequence-binding.md",
+    "_posts/2025-07-21-the-deadline-icon-data.md",
+    "_posts/2025-09-05-the-deadline-escape-registration.md",
+    "_posts/2025-08-22-the-deadline-widget-lifetime.md",
+    "_posts/2025-06-14-the-deadline-03.md",
+    "_posts/2025-08-01-the-deadline-result-ui.md",
+    "_posts/2025-07-25-the-deadline-spectator-ui.md",
+    "_posts/2025-08-22-the-deadline-06.md",
+    "_posts/2025-09-05-the-deadline-07.md",
+    "_templates/blog-techpost.md",
+    "assets/img/기획.md",
+    "_tabs/categories.md",
+    "assets/img",
+    "_drafts/the-deadline-01-project-planning.md",
+    "_drafts",
+    "_tabs/tags.md",
+    "_templates"
+  ]
+}

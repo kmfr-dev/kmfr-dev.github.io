@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+  <title id="title">The DeadLine UI의 MVP 구조</title>
+  <desc id="desc">게임 데이터와 WidgetController, UMG 위젯 사이의 데이터 전달 및 사용자 입력 흐름</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#64748b"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#d7dde5;stroke-width:2}.role{font:700 25px Arial,sans-serif;fill:#202632}.name{font:18px Arial,sans-serif;fill:#4c5667}.note{font:16px Arial,sans-serif;fill:#64748b}.line{stroke:#64748b;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1100" height="460" rx="24" fill="#f7f8fa"/>
+  <rect class="box" x="55" y="115" width="285" height="185" rx="18"/>
+  <text class="role" x="197" y="165" text-anchor="middle">Model</text>
+  <text class="name" x="197" y="207" text-anchor="middle">Character · GameState</text>
+  <text class="name" x="197" y="237" text-anchor="middle">Subsystem · DataTable</text>
+  <text class="note" x="197" y="273" text-anchor="middle">게임 상태와 데이터</text>
+  <rect class="box" x="408" y="90" width="285" height="235" rx="18"/>
+  <text class="role" x="550" y="143" text-anchor="middle">Presenter</text>
+  <text class="name" x="550" y="187" text-anchor="middle">WidgetController</text>
+  <text class="note" x="550" y="228" text-anchor="middle">데이터를 화면 값으로 변환</text>
+  <text class="note" x="550" y="258" text-anchor="middle">이벤트 연결과 화면 전환 담당</text>
+  <rect class="box" x="760" y="115" width="285" height="185" rx="18"/>
+  <text class="role" x="902" y="165" text-anchor="middle">View</text>
+  <text class="name" x="902" y="207" text-anchor="middle">UMG Widget</text>
+  <text class="note" x="902" y="247" text-anchor="middle">표시와 사용자 입력</text>
+  <path class="line" d="M340 180 H395"/>
+  <text class="note" x="368" y="162" text-anchor="middle">상태</text>
+  <path class="line" d="M693 180 H747"/>
+  <text class="note" x="720" y="162" text-anchor="middle">갱신</text>
+  <path class="line" d="M760 265 H706"/>
+  <text class="note" x="733" y="295" text-anchor="middle">입력</text>
+  <text class="note" x="550" y="390" text-anchor="middle">View와 게임 객체가 서로를 직접 찾지 않도록 중간에서 연결</text>
+</svg>
