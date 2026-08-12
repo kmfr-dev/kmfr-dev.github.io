@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: ko-KR
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone: Asia/Seoul
+timezone: Asia/InCheon
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: KMFR Dev Log # the main title
 
-tagline: 게임 프로그래머의 개발과 기록 # it will display as the subtitle
+tagline: 어느 게임 클라이언트 개발자의 기록
 
 description: >- # used by seo meta and the atom feed
-  Unreal Engine, C++, 서버 프로그래밍과 프로젝트 경험을 정리하는 개발 블로그.
+  게임 개발과 관련된 내용과 일상등을 기록하는 블로그 입니다. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 이기현
-  email: # change to your email address
+  email: zksekrwl1@naver.com
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
