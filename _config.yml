@@ -16,7 +16,7 @@ timezone: Asia/InCheon
 
 title: KMFR Dev Log # the main title
 
-tagline: 어느 게임 클라이언트 개발자의 기록
+tagline: 어느 게임 개발자의 기록
 
 description: >- # used by seo meta and the atom feed
   게임 개발과 관련된 내용과 일상등을 기록하는 블로그 입니다. 
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/profile.png
+avatar: /assets/Profile.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
