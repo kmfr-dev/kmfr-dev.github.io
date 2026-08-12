@@ -9,6 +9,9 @@ tags:
   - multiplayer
   - rpc
 description: 탈출 수단의 부품 수리 UI를 이벤트 단위로 동기화한 이유
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >Survivor는 맵에서 부품을 찾아 차량이나 보트 같은 탈출 수단을 수리한다. 탈출 수단마다 필요한 부품이 다르며, 수리가 진행될 때 오브젝트 위에 표시되는 월드 UI의 현재 개수와 완료 상태를 모든 플레이어에게 동일하게 보여줘야 했다.

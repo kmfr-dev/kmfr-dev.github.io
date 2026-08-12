@@ -10,6 +10,9 @@ tags:
   - beaverrocks
   - retrospective
 description: 첫 외부 전시 출품을 준비하며 게임을 시연 가능한 빌드로 다듬었던 과정과 탈락 이후의 회고
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >The DeadLine을 개발하던 중 `BeaverRocks 2025` 전시 모집을 알게 됐다. 아직 부족한 부분이 많았지만, 팀 내부에서만 테스트하던 게임을 처음 외부에 보여줄 수 있는 기회라고 생각해 출품을 결정했다.

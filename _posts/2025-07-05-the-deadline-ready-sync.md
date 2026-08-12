@@ -9,6 +9,9 @@ tags:
   - multiplayer
   - replication
 description: 로비 Ready 상태를 동기화하며 RPC 소유권과 RepNotify의 차이를 이해한 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >멀티플레이 로비에서 Ready 버튼을 누르면 모든 플레이어의 화면이 같은 상태를 보여야 했다. 기능 자체는 단순해 보였지만, 처음 만든 구조는 어떤 객체가 클라이언트의 요청을 서버에 전달할 수 있는지 잘못 이해한 상태에서 출발했다.

@@ -9,6 +9,9 @@ tags:
   - 협업
   - svn
 description: 협업 방식과 형상관리 규칙 정리
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 이전 글: [첫 팀 프로젝트의 기획과 방향 설정]({% post_url 2025-06-02-the-deadline-01 %})

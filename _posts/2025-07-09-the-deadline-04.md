@@ -9,6 +9,9 @@ tags:
   - ui
   - refactoring
 description: MVP 패턴을 바탕으로 WidgetController와 UI의 책임을 분리한 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >앞서 만든 UI 레이어와 서브시스템을 실제 화면에 적용하자 처음에는 보이지 않던 문제가 드러났다. 구조를 한 번에 다시 만들기보다 문제가 확인될 때마다 책임을 나누는 방향으로 고쳐 나갔다.

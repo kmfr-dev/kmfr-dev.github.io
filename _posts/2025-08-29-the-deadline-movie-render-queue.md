@@ -9,6 +9,9 @@ tags:
   - sequencer
   - movie-render-queue
 description: Take Recorder로 기록한 차량 시퀀스가 Movie Render Queue에서 다르게 움직인 원인
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >생존자가 탈출한 뒤 보여줄 차량 연출이 필요했다. 직접 차량을 운전한 움직임을 `Take Recorder`로 기록하고, 완성된 시퀀스를 `Movie Render Queue`로 출력했다.

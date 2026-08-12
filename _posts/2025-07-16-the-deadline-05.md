@@ -9,6 +9,9 @@ tags:
   - editor-utility-widget
   - tool
 description: 7월 16일 스폰 데이터 편집과 월드 미리보기를 하나의 에디터 도구로 묶은 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >UI 구조를 정리한 뒤에는 콘텐츠를 반복해서 배치하는 과정에도 눈을 돌렸다. 런타임 코드를 고치는 문제가 아니라, 같은 확인 작업을 계속 반복해야 하는 제작 과정의 문제였다.

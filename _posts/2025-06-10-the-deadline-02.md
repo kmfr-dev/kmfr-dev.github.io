@@ -9,9 +9,12 @@ tags:
   - ui
   - architecture
 description: 6월 9일부터 10일까지 UISubsystem과 UI 레이어의 첫 구조를 설계한 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
-프로젝트의 방향과 협업 방식을 정한 뒤, 본격적인 개발에 들어가기 전에 UI 공통 구조부터 만들기로 했다.
+2프로젝트의 방향과 협업 방식을 정한 뒤, 본격적인 개발에 들어가기 전에 UI 공통 구조부터 만들기로 했다.
 
 이전 글: [팀 협업 프로세스와 SVN 형상관리]({% post_url 2025-06-07-the-deadline-03 %})
 

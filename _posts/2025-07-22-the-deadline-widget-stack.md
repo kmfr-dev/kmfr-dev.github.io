@@ -9,6 +9,9 @@ tags:
   - ui
   - stack
 description: 여러 모달 화면에서 ESC 입력의 닫기 순서를 관리한 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >인게임에서 ESC를 누르면 설정과 종료 버튼이 있는 퀵메뉴가 열린다. 이 위에서 도움말이나 종료 확인창을 다시 열 수 있게 되면서 ESC 입력의 의미가 모호해졌다. 무

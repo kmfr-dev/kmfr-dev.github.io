@@ -9,6 +9,9 @@ tags:
   - shipping-build
   - slate
 description: 최종 빌드에서만 발생하는 문제를 추적하기 위한 화면 로그를 만든 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 >개발용 Development 빌드에서는 Unreal의 화면 로그를 통해 함수 호출과 상태를 바로 확인할 수 있었다. 반면 실제 배포에 사용하는 Shipping 빌드에서는 개발용 출력이 제거된다. 에디터에서는 정상인데 패키징한 게임에서만 문제가 생기면 어느 단계까지 실행됐는지 확인하기 어려웠다.

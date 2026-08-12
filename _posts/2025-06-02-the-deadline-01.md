@@ -9,6 +9,9 @@ tags:
   - 협업
   - 기획
 description: 팀을 결성해서 팀 프로젝트 방향을 정했던 과정
+image:
+  path: /assets/img/the-deadline-cover.png
+  alt: The DeadLine 프로젝트 대표 이미지
 pin: false
 ---
 ## 팀 결성 과정
